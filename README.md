@@ -26,7 +26,7 @@ This project also provides comparisons between different model combinations, hig
 - **Programming Language**: Python
 - **Libraries**:
   - `scikit-learn` for machine learning and model evaluation
-  - `NLTK` and `spaCy` for text preprocessing
+  - `NLTK` for text preprocessing
   - `Pandas` and `NumPy` for data manipulation
   - `Matplotlib` and `Seaborn` for visualization
 
