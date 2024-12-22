@@ -37,4 +37,3 @@ This project also provides comparisons between different model combinations, hig
 The performance of the models was evaluated using various metrics, and the results are summarized as follows:
 
 SVM with TF-IDF: Best performance with 96% accuracy.
-Random Forest with BoW: Moderate performance with 85% accuracy.
