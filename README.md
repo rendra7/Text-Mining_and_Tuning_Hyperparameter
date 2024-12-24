@@ -2,7 +2,7 @@
 
 
 ## Project Overview
-This project explores and maximizes the performance of text classification models through **text mining** and **hyperparameter tuning**. The primary goal is to identify the best combination of text vectorization methods and machine learning algorithms for effective text classification.
+This project explores and maximizes the performance of text classification models through **text mining** and **hyperparameter tuning**. The primary goal is to identify the best combination of text vectorization methods and machine learning algorithms for effective text classification. 
  
 Key highlights:
 - Two machine learning algorithms: **Support Vector Machine (SVM)** and **Random Forest**.
